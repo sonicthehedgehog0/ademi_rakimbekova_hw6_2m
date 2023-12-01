@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ademi_rakimbekova_hw6_2m</string>
+    <string name="vhod">Вход</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="sign">Выполните вход или зарегестрируйтесь.</string>
+    <string name="mail">Введите вашу почту</string>
+    <string name="password">Введите пароль</string>
+    <string name="go">Войти</string>
+    <string name="forgot">Забыл пароль?</string>
+    <string name="press">Нажми сюда.</string>
+</resources>
